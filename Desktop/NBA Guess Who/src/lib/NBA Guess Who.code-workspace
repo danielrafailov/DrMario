@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "NBA Guess Who",
+			"path": "../.."
+		},
+		{
+			"name": "Players",
+			"path": "../../../Players"
+		}
+	],
+	"settings": {}
+}
